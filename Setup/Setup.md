@@ -1,5 +1,3 @@
-This will be organized later - for now throw in things as placeholders
-
 Project Goal #1
 
 Develop an app for keeping track of current and recent activities
