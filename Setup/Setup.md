@@ -1,12 +1,3 @@
-Project Goal #1
-
-Develop an app for keeping track of current and recent activities
-Required features (let's fill this out) :
-
-  A simple app, allowing to enter, update, modify and delete activities, and to view them on screen
-
-Desired(nice to have) features (let's fill this out as well)
-  Provide categories and tags for activities, and allow filtering on those
 
 IDE - look into Android Studio:
   https://developer.android.com/studio/index.html
