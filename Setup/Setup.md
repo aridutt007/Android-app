@@ -2,6 +2,10 @@
 IDE - look into Android Studio:
   https://developer.android.com/studio/index.html
   
+Run Apps on a Hardware Device  
+
+https://developer.android.com/studio/run/device.html
+
 Github Connectivity - read this
 
 http://stackoverflow.com/questions/24625335/getting-repositroy-test-has-failed-error-while-cloning-repository-from-gitlab
