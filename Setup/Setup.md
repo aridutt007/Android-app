@@ -1,5 +1,5 @@
 --------------------------
-| GITHUB REPO MANAGEMENT | 
+  GITHUB REPO MANAGEMENT 
 --------------------------
 Managing notifications for pushes to a repository
 https://help.github.com/articles/managing-notifications-for-pushes-to-a-repository/
