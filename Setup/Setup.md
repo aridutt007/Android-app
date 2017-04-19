@@ -25,5 +25,10 @@ ANDROID DEVELOPMENT
 Starting Android development on Windows
 
 https://www.codeproject.com/Articles/800469/Starting-Android-development-on-Windows
+
+
+Android SQLite database and content provider - Tutorial
+
+http://www.vogella.com/tutorials/AndroidSQLite/article.html
   
   
