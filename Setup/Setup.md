@@ -31,6 +31,9 @@ https://developer.android.com/studio/run/device.html
 
 Configure On-Device Developer Options
 https://developer.android.com/studio/debug/dev-options.html
+
+Install OEM USB Drivers
+https://developer.android.com/studio/run/oem-usb.html
 ____________________________________________________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________
