@@ -12,23 +12,38 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________
 ANDROID STUDIO
 
+Android Studio
+The Official IDE for Android
 https://developer.android.com/studio/index.html
-    
-Run Apps on a Hardware Device  
 
+Keyboard Shortcuts
+http://stackoverflow.com/questions/27657025/android-studio-shortcuts-like-eclipse
+
+____________________________________________________________________________________________________________________________
+
+____________________________________________________________________________________________________________________________
+
+HARDWARE DEVICES
+
+Run Apps on a Hardware Device  
 https://developer.android.com/studio/run/device.html
+
+
+Configure On-Device Developer Options
+https://developer.android.com/studio/debug/dev-options.html
 ____________________________________________________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________
 ANDROID DEVELOPMENT
 
 Starting Android development on Windows
-
 https://www.codeproject.com/Articles/800469/Starting-Android-development-on-Windows
 
 
 Android SQLite database and content provider - Tutorial
-
 http://www.vogella.com/tutorials/AndroidSQLite/article.html
+
+Saving Data in SQL Databases
+https://developer.android.com/training/basics/data-storage/databases.html
   
   
